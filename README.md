@@ -3,7 +3,7 @@ Ed-Tech
 
 ## Overview
 
-Briefly describe what your Flask web app does and its main features.
+Flask web app
 
 ## Table of Contents
 
@@ -14,20 +14,20 @@ Briefly describe what your Flask web app does and its main features.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
+### Getting Started
 
-### Installation
+## Installation
 
-# Clone the repository
+## Clone the repository
 ```
 git clone https://github.com/your-username/your-flask-app.git
 ```
-# Navigate to the project directory
+## Navigate to the project directory
 ```
 cd your-flask-app
 ```
 
-# Install dependencies
+## Install dependencies
 ```
 pip install -r requirements.txt
 ```
