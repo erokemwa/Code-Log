@@ -8,7 +8,6 @@ Briefly describe what your Flask web app does and its main features.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
@@ -17,9 +16,18 @@ Briefly describe what your Flask web app does and its main features.
 
 ## Getting Started
 
-### Prerequisites
+### Installation
 
-List any dependencies or prerequisites that need to be installed before running the app. Include links to external resources if necessary.
+# Clone the repository
+```
+git clone https://github.com/your-username/your-flask-app.git
+```
+# Navigate to the project directory
+```
+cd your-flask-app
+```
 
-```bash
+# Install dependencies
+```
 pip install -r requirements.txt
+```
