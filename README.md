@@ -20,11 +20,11 @@ Flask web app
 
 ## Clone the repository
 ```
-git clone https://github.com/your-username/your-flask-app.git
+git clone https://github.com/erokemwa/Code-Log/
 ```
 ## Navigate to the project directory
 ```
-cd your-flask-app
+cd Code-Log
 ```
 
 ## Install dependencies
