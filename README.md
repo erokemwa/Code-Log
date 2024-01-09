@@ -16,18 +16,18 @@ Flask web application
 
 ### Getting Started
 
-## Installation
+## 1. Installation
 
-## Clone the repository
+## 2. Clone the repository
 ```
 git clone https://github.com/erokemwa/Code-Log/
 ```
-## Navigate to the project directory
+## 3. Navigate to the project directory
 ```
 cd Code-Log
 ```
 
-## Install dependencies
+## 4. Install dependencies
 ```
 pip install -r requirements.txt
 ```
