@@ -3,7 +3,7 @@ Ed-Tech
 
 ## Overview
 
-Flask web application 
+Flask web application. 
 
 ## Table of Contents
 
