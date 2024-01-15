@@ -1,7 +1,7 @@
 # Code-Log
 Ed-Tech
 
-**User Story Summary: Code-Log**
+**User Story: Code-Log**
 
 **As a** software developer
 
