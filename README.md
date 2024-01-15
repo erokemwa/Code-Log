@@ -1,4 +1,5 @@
 # Code-Log
+
 Ed-Tech
 
 **User Story: Code-Log**
@@ -10,6 +11,7 @@ Ed-Tech
 **So that** I can share my code with the community and receive feedback on it
 
 **Acceptance Criteria:**
+
 1. Upon logging in, I am directed to my dashboard.
 2. On my dashboard, I can initiate the creation of a new code snippet.
 3. I can enter a title, description, and code for the snippet and preview its appearance.
@@ -21,10 +23,9 @@ Ed-Tech
 9. I can remove a published snippet after confirming the deletion.
 10. An embed code is provided for each snippet, allowing me to share it on external websites or blogs.
 
-
 ## Overview
 
-Flask web application. 
+Flask web application.
 
 ## Table of Contents
 
@@ -39,16 +40,20 @@ Flask web application.
 
  1. Installation
 
-2. Clone the repository
+ 2. Clone the repository
+
 ```
 git clone https://github.com/erokemwa/Code-Log/
 ```
+
 3. Navigate to the project directory
+
 ```
 cd Code-Log
 ```
 
 4. Install dependencies
+
 ```
 pip install -r requirements.txt
 ```
