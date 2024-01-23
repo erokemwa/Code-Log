@@ -8,7 +8,7 @@ Ed-Tech
 
 **I want to** publish a code snippet on Code-Log
 
-**So that** I can share my code with the community and receive feedback on it
+**So that** I can share my code with the community and receive feedback on it.
 
 **Acceptance Criteria:**
 
